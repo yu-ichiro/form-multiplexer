@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Firebase Configs & Logs
+credentials.json
+
+# IDE Settings
+.idea
